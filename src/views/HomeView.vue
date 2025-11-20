@@ -48,7 +48,7 @@ const products = [
         <div class="about-preview">
           <div class="about-text">
             <SectionTitle 
-              title="关于乐地源" 
+              title="关于益生源" 
               align="left"
             />
             <p class="mb-4">
